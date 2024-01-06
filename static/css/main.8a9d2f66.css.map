@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8a9d2f66.css","mappings":"AAAA,MAEE,wBAAiC,CADjC,kBAEF,CAEA,OACE,kBACF","sources":["App.css"],"sourcesContent":[".heut{\n  padding-bottom: 45%;\n  background-color: rgb(65, 96, 97);\n}\n\n.heute{\n  padding-bottom: 70%;\n}"],"names":[],"sourceRoot":""}
